@@ -1,8 +1,7 @@
 /*--------------------------------------------------------------------------------------------------------------------------*/
 /* Author = Abhishek Chauhan*/
-/* GitHub Id = https://github.com/AbhishekChauhan9036 */
 /* Language = Java */
-/* Address = Ballia,UP,INDIA (221716)*/
+/* GitHub Id = https://github.com/AbhishekChauhan9036 */
 /*--------------------------------------------------------------------------------------------------------------------------*/
 
 public class Song {
