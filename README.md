@@ -1,2 +1,3 @@
 # Song-PlayList-App
-Basic app tutorial for better understaning of Object oriented design using Java and Java collections.
+Basic Song Playlist App for better understaning of Object oriented design using Java and Java collections.
+Tech Stack- Core Java ,OOPs and Collections Framework.
