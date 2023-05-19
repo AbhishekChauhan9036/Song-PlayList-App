@@ -1,10 +1,4 @@
 
-
-
-### Tech. Stack:
-Core Java ,OOPs and Collections Framework.
-
-
 # Song Playlist App
 <p>The Song Playlist App is a simple application that allows users to create and manage their own playlists of songs.</>
 
@@ -18,8 +12,5 @@ Core Java ,OOPs and Collections Framework.
   
   
   
-Technologies Used
-Programming Language: Python
-Framework: Flask
-Database: SQLite
-Frontend: HTML, CSS, JavaScript
+### Tech. Stack:
+Core Java ,OOPs and Collections Framework.
