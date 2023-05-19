@@ -21,6 +21,3 @@ The Song Playlist App is a simple application that allows users to create and ma
 
 
   
-  
-### Tech. Stack:
-
