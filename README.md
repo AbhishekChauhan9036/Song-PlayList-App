@@ -19,5 +19,53 @@ The Song Playlist App is a simple application that allows users to create and ma
 
 1. Clone the repository:
 
-git clone https://github.com/AbhishekChauhan9036/Song-PlayList-App
+    git clone https://github.com/AbhishekChauhan9036/Song-PlayList-App
   
+
+2. Open the project in Android Studio.
+
+3. Build and run the app on an emulator or a physical device.
+
+## Usage
+
+- Register a new user account or log in with an existing account.
+- Create a new playlist by providing a name.
+- Search for songs in the available songs list and add them to your playlist.
+- Remove songs from your playlist if needed.
+- Play your playlist by tapping on the play button.
+- Shuffle the songs in your playlist by tapping on the shuffle button.
+- View and manage your existing playlists.
+
+## Project Structure
+
+- `app` directory: Contains the main source code for the app.
+  - `src` directory: Contains the Java/Kotlin source code organized in packages.
+  - `res` directory: Contains resources such as layouts, drawables, and values.
+- `database` directory: Contains the SQLite database schema and helper class.
+- `models` directory: Contains the data models for songs and playlists.
+- `repositories` directory: Contains the repository classes for data operations.
+- `viewmodels` directory: Contains the ViewModel classes for the app's screens.
+- `adapters` directory: Contains the RecyclerView adapters for displaying lists.
+- `utils` directory: Contains utility classes and helper methods.
+
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to the Song Playlist App, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Push your changes to your forked repository.
+5. Submit a pull request to the main repository.
+
+## License
+
+The Song Playlist App is licensed under the [MIT License](LICENSE).
+
+## Contact
+
+For any questions or suggestions, please feel free to reach out to the project maintainer:
+
+- Name: Your Name
+- Email: your-email@example.com
+
