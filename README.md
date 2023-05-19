@@ -37,11 +37,6 @@ The Song Playlist App is a simple application that allows users to create and ma
 - Shuffle the songs in your playlist by tapping on the shuffle button.
 - View and manage your existing playlists.
 
-## Project Structure
-
-- `app` directory: Contains the main source code for the app.
-- `database` directory: Contains the SQLite database schema and helper class.
-- `models` directory: Contains the data models for songs and playlists.
 
 ## Contributing
 
