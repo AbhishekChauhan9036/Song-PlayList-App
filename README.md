@@ -25,6 +25,8 @@ The Song Playlist App is a simple application that allows users to create and ma
 2. Open the project in Visual Studio Code.
 
 3. Build and run the app on an Terminal or a physical device.
+    - compile && Run commond for this Project : javac Main.java && java Main
+
 
 ## Usage
 
