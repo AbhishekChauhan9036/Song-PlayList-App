@@ -57,5 +57,5 @@ Contributions are welcome! If you'd like to contribute to the Song Playlist App,
 For any questions or suggestions, please feel free to reach out to the project maintainer:
 
 - Name: Abhishek Chauhan
-- Email: your-abhishekchauhan9036@gmail.com
+- Email: abhishekchauhan9036@gmail.com
 
