@@ -13,9 +13,8 @@ The Song Playlist App is a simple application that allows users to create and ma
 
 ## Technologies Used
 
-- Programming Language: [Java](https://www.java.com) 
-- Development Environment: [Visual Studio Code](https://code.visualstudio.com/)
-- 
+- Core Java ,OOPs and Collections Framework.
+
 ## Setup
 
 1. Clone the repository:
@@ -24,4 +23,4 @@ The Song Playlist App is a simple application that allows users to create and ma
   
   
 ### Tech. Stack:
-Core Java ,OOPs and Collections Framework.
+
